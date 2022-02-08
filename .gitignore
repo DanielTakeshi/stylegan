@@ -1,1 +1,5 @@
 pretrained/*.pkl
+results/
+dnnlib/__pycache__/*
+dnnlib/*/__pycache__/*
+__pycache__/*
