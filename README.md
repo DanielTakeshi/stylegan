@@ -1,3 +1,13 @@
+Installation:
+
+```
+conda create --name stylegan python=3.6 -y  &&  conda activate stylegan
+conda install tensorflow-gpu=1.10.0 -y
+pip install Pillow
+pip install requests
+pip install scipy
+```
+
 ## StyleGAN &mdash; Official TensorFlow Implementation
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![TensorFlow 1.10](https://img.shields.io/badge/tensorflow-1.10-green.svg?style=plastic)
