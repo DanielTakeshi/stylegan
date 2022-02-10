@@ -4,3 +4,4 @@ dnnlib/__pycache__/*
 dnnlib/*/__pycache__/*
 __pycache__/*
 *.txt
+datasets/
